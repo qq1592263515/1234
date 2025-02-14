@@ -1,2 +1,1 @@
-今天学了git init 和git add！
-today!i lean 
+今天的数学作业是第10页
